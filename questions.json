@@ -1,0 +1,512 @@
+[
+  {
+    "question": "Which part of the neuron receives signals from other neurons?",
+    "options": [
+      "Axon",
+      "Dendrite",
+      "Cell body",
+      "Synaptic terminal"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the primary function of the myelin sheath?",
+    "options": [
+      "To generate nerve impulses",
+      "To insulate the axon and speed up impulse conduction",
+      "To connect neurons",
+      "To store neurotransmitters"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The gap between two neurons is called:",
+    "options": [
+      "Synapse",
+      "Axon hillock",
+      "Node of Ranvier",
+      "Neurolemma"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which neurotransmitter is most commonly associated with the parasympathetic nervous system?",
+    "options": [
+      "Norepinephrine",
+      "Dopamine",
+      "Acetylcholine",
+      "Serotonin"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What type of neuron carries impulses from the central nervous system to muscles?",
+    "options": [
+      "Sensory neurons",
+      "Interneurons",
+      "Motor neurons",
+      "Efferent neurons"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which part of the brain is responsible for maintaining balance and posture?",
+    "options": [
+      "Cerebrum",
+      "Medulla oblongata",
+      "Cerebellum",
+      "Thalamus"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The process of converting a neural stimulus into an electrical signal is called:",
+    "options": [
+      "Transduction",
+      "Conduction",
+      "Transmission",
+      "Diffusion"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which ion is primarily responsible for the depolarization phase of an action potential?",
+    "options": [
+      "Sodium (Na+)",
+      "Potassium (K+)",
+      "Calcium (Ca2+)",
+      "Chloride (Cl-)"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which structure connects the two hemispheres of the brain?",
+    "options": [
+      "Cerebellum",
+      "Corpus callosum",
+      "Brainstem",
+      "Medulla"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The integration of sensory information and motor commands occurs in the:",
+    "options": [
+      "Spinal cord",
+      "Cerebral cortex",
+      "Cerebellum",
+      "Thalamus"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which part of the neuron is responsible for the initiation of the action potential?",
+    "options": [
+      "Axon terminal",
+      "Dendrite",
+      "Axon hillock",
+      "Cell membrane"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is an example of an excitatory neurotransmitter?",
+    "options": [
+      "GABA",
+      "Glutamate",
+      "Glycine",
+      "Endorphins"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The refractory period in a neuron is best described as:",
+    "options": [
+      "A period when a neuron is hyperpolarized and cannot fire again immediately",
+      "The time taken to transmit signals across a synapse",
+      "The duration of an action potential",
+      "The time taken to restore ion balance"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following statements is true about synaptic transmission?",
+    "options": [
+      "It is a purely electrical process",
+      "It occurs only at the neuromuscular junction",
+      "It involves the release of neurotransmitters from synaptic vesicles",
+      "It can be inhibited only by presynaptic factors"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following cells are responsible for myelination in the central nervous system?",
+    "options": [
+      "Schwann cells",
+      "Oligodendrocytes",
+      "Astrocytes",
+      "Microglia"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The part of the brain that is the center for higher mental functions is:",
+    "options": [
+      "Medulla oblongata",
+      "Cerebellum",
+      "Cerebrum",
+      "Pons"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In a reflex arc, the afferent pathway is carried out by:",
+    "options": [
+      "Motor neurons",
+      "Sensory neurons",
+      "Interneurons",
+      "Both motor and sensory neurons"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The sympathetic nervous system is primarily responsible for the body’s response to:",
+    "options": [
+      "Rest and digest",
+      "Fight or flight",
+      "Sleep regulation",
+      "Sensory processing"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which structure is responsible for relaying sensory information to the cerebral cortex?",
+    "options": [
+      "Hypothalamus",
+      "Thalamus",
+      "Medulla",
+      "Cerebellum"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is a function of the basal ganglia?",
+    "options": [
+      "Regulation of emotions",
+      "Control of voluntary motor movements",
+      "Processing of auditory information",
+      "Visual recognition"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which substance is responsible for inhibitory synaptic transmission in the brain?",
+    "options": [
+      "Glutamate",
+      "Acetylcholine",
+      "GABA",
+      "Dopamine"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The neuromuscular junction is an example of a:",
+    "options": [
+      "Electrical synapse",
+      "Chemical synapse",
+      "Gap junction",
+      "Intrinsic synapse"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which ion channel opens during the repolarization phase of the action potential?",
+    "options": [
+      "Voltage-gated sodium channels",
+      "Ligand-gated sodium channels",
+      "Voltage-gated potassium channels",
+      "Calcium channels"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the effect of a high concentration of extracellular potassium on the resting membrane potential?",
+    "options": [
+      "Hyperpolarization",
+      "Depolarization",
+      "No change",
+      "Repolarization"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which part of the brain is known as the 'silent' brain due to its role in coordinating movement rather than processing sensory input?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Brainstem",
+      "Thalamus"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which structure prevents backward conduction of the action potential in a neuron?",
+    "options": [
+      "Nodes of Ranvier",
+      "Myelin sheath",
+      "Axon hillock",
+      "Synaptic cleft"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The central nervous system is protected by a tough membrane called the:",
+    "options": [
+      "Meninges",
+      "Endoneurium",
+      "Epineurium",
+      "Perineurium"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What is the function of astrocytes in the central nervous system?",
+    "options": [
+      "To produce cerebrospinal fluid",
+      "To form myelin",
+      "To maintain the blood-brain barrier",
+      "To transmit nerve impulses"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is a component of the reticular activating system?",
+    "options": [
+      "Medulla oblongata",
+      "Pineal gland",
+      "Brainstem",
+      "Hypothalamus"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "During an action potential, the membrane potential rapidly returns to the resting level due to:",
+    "options": [
+      "Sodium influx",
+      "Sodium efflux",
+      "Potassium efflux",
+      "Potassium influx"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following best describes the function of the limbic system?",
+    "options": [
+      "Regulating heart rate",
+      "Processing emotions and memory",
+      "Coordinating movement",
+      "Controlling vision"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of these is a key function of the hypothalamus?",
+    "options": [
+      "Controlling voluntary movement",
+      "Regulating homeostasis",
+      "Processing visual stimuli",
+      "Coordinating balance"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The term 'all-or-none' in reference to action potentials means that:",
+    "options": [
+      "Action potentials vary in size",
+      "A neuron either fires completely or not at all",
+      "Neurotransmitters are released in graded amounts",
+      "Signal strength can be modulated"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is a characteristic of chemical synapses?",
+    "options": [
+      "Direct electrical coupling between neurons",
+      "Unidirectional transmission of impulses",
+      "Immediate signal transmission",
+      "Absence of synaptic delay"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In the spinal cord, the lateral corticospinal tract is involved in:",
+    "options": [
+      "Sensory processing",
+      "Coordination of balance",
+      "Voluntary motor control",
+      "Reflex actions"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which part of the brainstem is primarily responsible for regulating breathing?",
+    "options": [
+      "Pons",
+      "Medulla oblongata",
+      "Midbrain",
+      "Cerebellum"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The integration of synaptic inputs in the neuron takes place in the:",
+    "options": [
+      "Axon terminal",
+      "Dendrites and cell body",
+      "Axon hillock",
+      "Synaptic cleft"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following statements is correct regarding neurotransmitter release?",
+    "options": [
+      "It occurs by exocytosis of synaptic vesicles",
+      "It occurs by diffusion through the membrane",
+      "It is not calcium-dependent",
+      "It is an active transport process"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of these is a function of microglia in the central nervous system?",
+    "options": [
+      "Producing myelin",
+      "Maintaining the blood-brain barrier",
+      "Immune defense",
+      "Synaptic transmission"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following describes a feature of the peripheral nervous system?",
+    "options": [
+      "It is entirely encapsulated by bone",
+      "It includes both sensory and motor neurons",
+      "It has no connection to the CNS",
+      "It uses only chemical synapses"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which structure acts as the main relay station for sensory information in the brain?",
+    "options": [
+      "Hypothalamus",
+      "Thalamus",
+      "Cerebellum",
+      "Medulla"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The phenomenon where a postsynaptic neuron becomes less sensitive to repeated stimuli is called:",
+    "options": [
+      "Sensitization",
+      "Habituation",
+      "Potentiation",
+      "Depolarization block"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which type of synapse involves a direct connection via gap junctions?",
+    "options": [
+      "Chemical synapse",
+      "Electrical synapse",
+      "Neuromuscular junction",
+      "Autocrine synapse"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which neurotransmitter is typically associated with excitatory signals in the central nervous system?",
+    "options": [
+      "GABA",
+      "Glutamate",
+      "Glycine",
+      "Serotonin"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which process describes the restoration of the resting membrane potential after an action potential?",
+    "options": [
+      "Repolarization",
+      "Hyperpolarization",
+      "Depolarization",
+      "Refractory period"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following best explains the term 'synaptic plasticity'?",
+    "options": [
+      "Permanent loss of synapses",
+      "Ability of synapses to strengthen or weaken over time",
+      "Formation of new synapses only during development",
+      "Fixed synaptic response to stimuli"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A neuron’s ability to regenerate its axon in the central nervous system is:",
+    "options": [
+      "Highly efficient",
+      "Limited or absent",
+      "The same as in the peripheral nervous system",
+      "Enhanced by myelin"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is a typical characteristic of the neuromuscular junction?",
+    "options": [
+      "Electrical transmission",
+      "Rapid and localized chemical transmission",
+      "Slow neurotransmitter diffusion",
+      "No synaptic vesicles involved"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the term for the junction between a motor neuron and a muscle fiber?",
+    "options": [
+      "Neuromuscular junction",
+      "Myoneural synapse",
+      "Muscle endplate",
+      "Motor endplate"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which brain structure is crucial for processing visual information and is part of the diencephalon?",
+    "options": [
+      "Cerebellum",
+      "Thalamus",
+      "Hypothalamus",
+      "Pituitary gland"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is true about the blood-brain barrier?",
+    "options": [
+      "It allows all molecules to freely pass into the brain",
+      "It is formed by tight junctions between endothelial cells",
+      "It is only present in the spinal cord",
+      "It is easily permeable to toxins"
+    ],
+    "correct": 1
+  }
+]
